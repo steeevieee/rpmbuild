@@ -1,0 +1,5 @@
+groff
+jemalloc-devel
+libedit-devel
+ncurses-devel
+pcre-devel
